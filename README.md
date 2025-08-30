@@ -13,5 +13,6 @@ Excel
 
   -  <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales Analysis</a>
 
+<h2> 📑 Certifications:</h2>
 
-
+ - <a href="https://www.credly.com/badges/e397c830-9e45-4770-a4f6-6f3ea15d4e11/linked_in_profile"> Google Data Analytics Professional Certifiation</a>
