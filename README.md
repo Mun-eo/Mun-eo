@@ -11,7 +11,7 @@ I hope you find the projects insightful.
 <h2>👨‍💻 Data Analysis Projects:</h2>
 Excel
 
-  - Restuarant Sales Dashboard 
+  -  <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales Analysis</a>
 
 
 
