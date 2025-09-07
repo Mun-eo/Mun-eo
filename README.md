@@ -12,7 +12,7 @@ I hope you find the projects insightful.
 Excel
 
   -  <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales Analysis</a>
-  - Car Market Analysis 
+  - <a href="https://github.com/Mun-eo/Major-Auto-Inc-Market-Analysis">Major Auto Inc Market Analysis 
 
 <h2> 📑 Certifications:</h2>
 
