@@ -1,4 +1,4 @@
-<h1>Rasheed Johnson - <a href="www.linkedin.com/in/rasheed-johnson-a30947260"> Aspiring People Analyst</a>
+<h1>Rasheed Johnson - <a href="[www.linkedin.com/in/rasheed-johnson-a30947260](https://www.linkedin.com/in/rasheed-johnson-a30947260/)"> Aspiring People Analyst</a>
 
 <h2>About</h2>  
 
