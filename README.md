@@ -9,10 +9,12 @@ This is a repository to showcase my skills, share projects and track my progress
 I hope you find the projects insightful.
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
-Excel
 
-  -  <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales Analysis</a>
-  - <a href="https://github.com/Mun-eo/Major-Auto-Inc-Market-Analysis">Major Auto Inc Market Analysis 
+| Project | Tools Used |
+|--------------|------------|
+|<a href="https://github.com/Mun-eo/Major-Auto-Inc-Market-Analysis">Major Auto Inc Market Analysis| Excel, Tableau |
+| <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales  | Excel |
+| HR Analytics Project | Power Query, SQL, Tableau |
 
 <h2> 📑 Certifications:</h2>
 
