@@ -14,6 +14,7 @@ I hope you find the projects insightful.
 |--------------|------------|
 |<a href="https://github.com/Mun-eo/Major-Auto-Inc-Market-Analysis">Major Auto Inc Market Analysis| Excel, Tableau |
 | <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales  | Excel |
+| <a href="https://github.com/Mun-eo/HR-Analytics-SQL-Queries">HR Analytics SQL Queries  | SQL |
 | HR Analytics Project | Power Query, SQL, Tableau |
 
 <h2> 📑 Certifications:</h2>
