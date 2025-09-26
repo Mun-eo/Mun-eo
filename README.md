@@ -2,7 +2,7 @@
 
 <h2>About</h2>  
 
- Hi, I'm Rasheed and welcome to my data analyst portfolio! I am currently pursing my master's in Industrial/Organizational Psychology to use analytics to improve the employee experience and peformance through data - driven HR strategy. 
+ Hi, I'm Rasheed and welcome to my data analyst portfolio! I am an Industrial/Organizational Psychology graduate student with a passion for using analytics to improve the employee experience and peformance through data - driven HR strategy. 
 
 This is a repository to showcase my skills, share projects and track my progress in Data Analytics. The projects will typically focus on HR and Business Analytics, with occasional research projects.
 
@@ -10,12 +10,13 @@ I hope you find the projects insightful.
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-| Project | Tools Used |
-|--------------|------------|
-|<a href="https://github.com/Mun-eo/Major-Auto-Inc-Market-Analysis">Major Auto Inc Market Analysis| Excel, Tableau |
-| <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales  | Excel |
-| <a href="https://github.com/Mun-eo/HR-Analytics-SQL-Queries">HR Analytics SQL Queries  | SQL |
-| HR Analytics Project | Power Query, SQL, Tableau |
+| Project | Tools Used | Key Insights 
+|--------------|------------|------------|
+|<a href="https://github.com/Mun-eo/Major-Auto-Inc-Market-Analysis">Major Auto Inc Market Analysis| Excel, Tableau | Indetified key market trends to optimize future inventory purchases and marketing strategies across the corporation’s national dealership network.
+| <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales  | Excel | Analyzed sales trends to optmiize menu offerings and business expansion oppurtunities.
+| <a href="https://github.com/Mun-eo/HR-Analytics-SQL-Queries">HR Analytics SQL Queries  | SQL | Demonstrates SQL skills using HR employee dataset to solve common business problems in the field of People Analytics. 
+| <a href="https://github.com/Mun-eo/HR-Analytics-Attrition-Project-">HR Analytics Attrition Project | Power Query, SQL, Tableau | ***Work in progress***
+
 
 <h2> 📑 Certifications:</h2>
 
