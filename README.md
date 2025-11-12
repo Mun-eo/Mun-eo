@@ -15,7 +15,7 @@ I hope you find the projects insightful.
 |<a href="https://github.com/Mun-eo/Major-Auto-Inc-Market-Analysis">Major Auto Inc Market Analysis| Excel, Tableau | Indetified key market trends to optimize future inventory purchases and marketing strategies across the corporation’s national dealership network.
 | <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales  | Excel | Analyzed sales trends to optmiize menu offerings and business expansion oppurtunities.
 | <a href="https://github.com/Mun-eo/HR-Analytics-SQL-Queries">HR Analytics SQL Queries  | SQL | Demonstrates SQL skills using HR employee dataset to solve common business problems in the field of People Analytics. 
-| <a href="https://github.com/Mun-eo/HR-Analytics-Attrition-Project-">HR Analytics Attrition Project | Power Query, SQL, Tableau | ***Work in progress***
+| <a href="https://github.com/Mun-eo/HR-Analytics-Attrition-Project-">HR Analytics Attrition Project |  SQL, Tableau | ***Work in progress***
 
 
 <h2> 📑 Certifications:</h2>
