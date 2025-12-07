@@ -16,7 +16,7 @@ I hope you find the projects insightful.
 | <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales  | Excel | Analyzed sales trends to optmiize menu offerings and business expansion oppurtunities.
 | <a href="https://github.com/Mun-eo/HR-Analytics-SQL-Queries">HR Analytics SQL Queries  | SQL | Demonstrates SQL skills using HR employee dataset to solve common business problems in the field of People Analytics. 
 | <a href="https://github.com/Mun-eo/HR-Analytics-Attrition-Project-">HR Analytics Attrition Project | SQL, Tableau | Analyzed employee data to showcase trends in employee attrition within atrrition hotspots to improve employee retention. 
-|Student Performance Analysis | R | Demonstrates SQL skills using HR employee dataset to solve common business problems in the field of People Analytics. 
+| <a href="https://github.com/Mun-eo/Student-Performance-Analysis">Student Performance Analysis | R Progremming | Demonstrates SQL skills using HR employee dataset to solve common business problems in the field of People Analytics. 
 
 
 <h2> 📑 Certifications:</h2>
