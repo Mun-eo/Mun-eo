@@ -12,8 +12,9 @@ I hope you find the projects insightful.
 
 | Project | Tools Used | Key Insights 
 |--------------|------------|------------|
-|<a href="https://github.com/Mun-eo/Major-Auto-Inc-Market-Analysis">Major Auto Inc Market Analysis| Excel, Tableau | Indetified key market trends to optimize future inventory purchases and marketing strategies across the corporation’s national dealership network.
+|<a href="https://github.com/Mun-eo/Cafe-Sales-Snapshot"> Roger's Ultimate Cafe Sales Snapshot| Excel| Analyzed sales data to visualize performance and trends in orders at Roger's Ultimate Cafe.
 | <a href="https://github.com/Mun-eo/Urban-Palate-Group-Restaurant-Sales-Analysis">Urban Palate Group Restaurant Sales  | Excel | Analyzed sales trends to optmize menu offerings and business expansion opportunities.
+|<a href="https://github.com/Mun-eo/Major-Auto-Inc-Market-Analysis">Major Auto Inc Market Analysis| Excel, Tableau | Indetified key market trends to optimize future inventory purchases and marketing strategies across the corporation’s national dealership network.
 | <a href="https://github.com/Mun-eo/HR-Analytics-SQL-Queries">HR Analytics SQL Queries  | SQL | Demonstrates SQL skills using HR employee dataset to solve common business problems in the field of People Analytics. 
 | <a href="https://github.com/Mun-eo/HR-Analytics-Attrition-Project-">HR Analytics Attrition Project | SQL, Tableau | Analyzed employee data to showcase trends in employee attrition within atrrition hotspots to improve employee retention. 
 | <a href="https://github.com/Mun-eo/Student-Performance-Analysis">Student Performance Analysis | R Progremming | Utilizes performance data from students to uncover correlations between academic behavior and test performance. 
